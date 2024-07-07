@@ -7,7 +7,7 @@ This project focuses on analyzing sales data from a ski shop during Black Friday
 The Black Friday Excel Data Analysis project aimed to analyze sales data from a ski shop's transactions during the Black Friday period. The project utilized Python for data manipulation and Excel for data storage and visualization. Key tasks included reading data from an Excel workbook, calculating sales tax based on location, updating the workbook with calculated values, and performing detailed analysis to derive business insights.
 
 ## Screenshot
-![Project Screenshot](path/to/screenshot.png)
+![Project Screenshot](https://github.com/danartech/Black-Friday-Excel-Data-Analysis-In-Python/blob/main/Maven%20Python%20Project.png)
 
 ## Tools Used
 - **Programming Language:** Python
